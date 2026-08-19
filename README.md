@@ -1,4 +1,4 @@
-# Lab 4 – Canny-Style Edge Detection Accelerator
+# Canny-Style Edge Detection Accelerator
 
 ## Computation
 
