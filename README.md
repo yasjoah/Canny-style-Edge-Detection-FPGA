@@ -104,5 +104,3 @@ latency  = cycle_count × achieved_clock_period
 speedup  = baseline_latency / optimized_latency
 ```
 
-Fill in `REPORT_TEMPLATE.md` with the screenshots and numbers, and export it
-to PDF for submission.
